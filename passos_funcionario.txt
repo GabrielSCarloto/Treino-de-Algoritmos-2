@@ -1,0 +1,18 @@
+Coloque o seu nome
+Coloque seu Estado Cívil
+
+Coloque sua idade
+	Se for maior que 60 anos, exibir que tem direito a aposentadoria
+	Se não for maior que 60 anos, exibir que não tem direito
+
+Coloque quantos filhos você tem
+	Se tiver pelo menos 1, exibir que tem direito ao auxílio família
+	Se não tiver filhos, exibir que não tem direito
+
+Quanto tempo tem de empresa
+	Se for maior que 5 anos, exibir que tem direito ao abono salarial
+	Se não for maior que 5 anos, exibir que não tem direito
+
+Coloque seu salário
+	Se for maior que 4300, exibir que tem direito ao seguro de vida e saúde
+	Se não for maior que 4300, exibir que não tem direito
